@@ -1,22 +1,3 @@
-# Create a README.md based on the provided PDF content
-
-readme = """# 3D-Printed Linear Press
-
-A compact, spring-loaded bench press you can print and assemble with common hardware. It uses 8 mm linear rods and LM8UU bearings for smooth motion and a toggle clamp for consistent pressure. Ideal for light press tasks, jigs, and small fixtures.
-
-> This README is a conversion of the original “Press Documentation” PDF for use in a GitHub repository.
-
----
-
-## Features
-- 3D-printed frame with captive M4 threads
-- Smooth guided motion on dual 8 mm shafts
-- Optional LM8UU bearings (recommended) or printed bushings
-- Adjustable spring preload (2–4 springs)
-- Toggle clamp for quick, repeatable clamping
-- Mounts to a simple wooden base with a raised step
-
----
 
 ## Bill of Materials (Hardware)
 
